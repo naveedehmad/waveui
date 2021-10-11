@@ -1,0 +1,24 @@
+{
+  "name": "waveui",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Naveed Ahmad <hi@naveedahmad@co>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "ethers": "^5.4.7",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}
